@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "recording": "CBA1R8C1",
+    "target_freq_hz": 4.363178974948109,
+    "model_freq_hz": 4.857856841592839,
+    "best_score": 0.17412358284898102,
+    "psprate": 340.0,
+    "kHAP": 50.0,
+    "halflifeHAP": 8.0,
+    "kAHP": 0.0,
+    "halflifeAHP": 300.0,
+    "runtime_s": 1200.0,
+    "plot_path": "analysis\\baseline_fit\\cba1r8c1_baseline_compare.png"
+  },
+  "stage1_top_scores": [
+    0.1394831843213523,
+    0.1620192918965234,
+    0.1700577317147104,
+    0.1733192490878392,
+    0.2026751579356456
+  ],
+  "stage2_top_scores": [
+    0.1804288153389551,
+    0.1816473417393032,
+    0.18729009954091697,
+    0.20708639486259572,
+    0.20872106888997444
+  ]
+}
